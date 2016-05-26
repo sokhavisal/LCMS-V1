@@ -1,0 +1,70 @@
+.content{
+    margin: 0 auto;
+    
+    text-align: center;
+}
+.icon-box {
+    width: 150px;
+    display: inline-block;
+    margin: 5px;
+    border: 1px solid #DDD;
+    height: 100px;
+    text-align: center;
+    vertical-align: top;
+    -webkit-box-shadow: 3px 4px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 3px 4px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 3px 4px 5px 0px rgba(0,0,0,0.75);
+    background-color: #50586b;
+    border-radius: 10px 10px 10px 10px;
+}
+.box-icon {
+    vertical-align: middle;
+    margin-top: 20px;
+}
+.box-text {
+    color: #FFF;
+    margin-top: 10px;
+}
+.fa{
+    color:#FFF;    
+}
+.footer {
+    margin-top: 10px;
+    color: #063e54;
+}
+.icon-box:hover {
+    background-color: #8ca4a8;
+}
+.box-text:hover,.icon-box:hover,.fa:hover {
+   color: #FFBCAB;
+}
+header{
+    height: 150px;
+    margin-top: 20px;
+}
+.login-btn {
+    width: 18%;
+    display: inline-block;
+    float:right;
+    text-align: center;
+}
+.logo{
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    height: 100%;;
+    
+    
+}
+.fa.fa-toggle-on {
+    color: #18d421;
+}
+.fa.fa-toggle-off {
+    color: red;
+ 
+}
+.online {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 50px;
+}
